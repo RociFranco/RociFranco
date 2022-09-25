@@ -12,4 +12,11 @@ curso de Front End Dev📚!
 * HTML (En proceso)
 * CSS (En proceso)
 * JavaScript
+* Microsoft Office
 
+
+
+
+
+
+  ![This is an image](https://user-images.githubusercontent.com/108433450/192170233-6721c879-7b68-49f5-b108-0731cef73342.gif)
