@@ -11,7 +11,7 @@ curso de Front End Dev📚!
 * C++
 * HTML (En proceso)
 * CSS (En proceso)
-* JavaScript
+* JavaScript (En proceso)
 * Microsoft Office
 
 
